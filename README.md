@@ -1,12 +1,48 @@
-# React + Vite
+# 😂 Web Joke App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **Web Joke App**, a fun and lightweight web application that delivers random jokes instantly. Built with modern frontend tools and deployed using Netlify, this app guarantees a laugh in just one click!
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [Click here to check the live site!](https://6823fea197743ac353d3ce94--webjokeapp.netlify.app/)
 
-## Expanding the ESLint configuration
+## 📸 Preview
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![App Preview](https://6823fea197743ac353d3ce94--webjokeapp.netlify.app/vite.svg)
+
+> _(Optional: Replace with a screenshot of your app UI if available)_  
+
+---
+
+## 🚀 Features
+
+- Get a new joke instantly with a single click
+- Fast, responsive UI
+- Clean, minimal design
+- Built using modern tools
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend**: HTML, CSS, JavaScript
+- **Framework/Build Tool**: Vite
+- **Deployment**: Netlify
+- **API**: _(Optional – Add if you're using any joke API)_
+
+---
+
+## 📦 Installation & Setup (For Local Development)
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/your-username/your-repo-name.git
+
+# 2. Move to the project folder
+cd your-repo-name
+
+# 3. Install dependencies
+npm install
+
+# 4. Start the development server
+npm run dev
